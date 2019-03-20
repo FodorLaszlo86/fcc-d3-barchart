@@ -1,0 +1,19 @@
+html,body {
+    background-color: #414141;
+    display: flex;
+    justify-content: center;
+}
+
+.svg-container {
+    background-color: rgb(248, 248, 248);
+    border-radius: .3rem;
+    padding: 3rem 2rem;
+}
+
+.bar {
+    fill: #2cc8d6;
+}
+
+.bar:hover {
+    opacity: 0.25
+}
